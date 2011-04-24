@@ -1,0 +1,2 @@
+This is a minimal example of a bug found in libutouch-geis 2.0.10.  If the test
+passes nothing will be printed, otherwise errors will be shown.
